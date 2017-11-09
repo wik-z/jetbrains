@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,10 +17,16 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
       <mask>*.v</mask>
       <mask>*.vue</mask>
       <mask>*.php</mask>
+      <mask>*.php=</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
