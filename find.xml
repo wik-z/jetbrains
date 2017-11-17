@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,10 +22,15 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>v</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.v</mask>
       <mask>*.vue</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.blad</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.p</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
