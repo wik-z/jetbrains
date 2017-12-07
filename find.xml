@@ -5,9 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -19,9 +16,6 @@
       <mask>*.blade.</mask>
       <mask>*.blade.p</mask>
       <mask>*.blade.php</mask>
-      <mask>*.vue</mask>
-      <mask>*.vu</mask>
-      <mask>*.v</mask>
       <mask>..js</mask>
       <mask>.js</mask>
       <mask>*.php</mask>
@@ -32,8 +26,14 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
+      <mask>*.vue</mask>
+      <mask>*.vujse</mask>
+      <mask>*.vujs</mask>
+      <mask>*.vuj</mask>
+      <mask>*.vu</mask>
+      <mask>*.v</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
