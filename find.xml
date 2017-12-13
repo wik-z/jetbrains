@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -14,10 +15,6 @@
       <mask>*.blade.p</mask>
       <mask>..js</mask>
       <mask>.js</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.j</mask>
       <mask>*.vue</mask>
       <mask>*.vujse</mask>
@@ -31,11 +28,15 @@
       <mask>*.blad</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
       <mask>&amp;</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
