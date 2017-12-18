@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>..js</mask>
       <mask>.js</mask>
@@ -29,14 +29,14 @@
       <mask>*.blade.ph</mask>
       <mask>*.blade.php</mask>
       <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
