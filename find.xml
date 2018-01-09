@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*.blaphp</mask>
       <mask>*.bladphp</mask>
       <mask>*.bladephp</mask>
       <mask>*.blade.php</mask>
@@ -16,7 +16,6 @@
       <mask>php</mask>
       <mask>*php</mask>
       <mask>*.php</mask>
-      <mask>*</mask>
       <mask>*.vue</mask>
       <mask>*.vu</mask>
       <mask>*.v</mask>
@@ -25,15 +24,17 @@
       <mask>*.ls</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffee</mask>
-      <mask>*.coffe</mask>
-      <mask>*.cof</mask>
-      <mask>*.co</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
