@@ -5,12 +5,8 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
-      <mask>*.bladephp</mask>
-      <mask>*.blade.php</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade</mask>
       <mask>p</mask>
       <mask>&amp;,php</mask>
       <mask>&amp;php</mask>
@@ -37,6 +33,10 @@
       <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.bphp</mask>
+      <mask>*.blphp</mask>
+      <mask>*.bladphp</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
