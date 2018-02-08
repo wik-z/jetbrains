@@ -5,24 +5,14 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
-      <mask>*.l</mask>
-      <mask>*.bl</mask>
-      <mask>*.bphp</mask>
-      <mask>*.v</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.bla</mask>
-      <mask>*.blad</mask>
-      <mask>*.blade</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade.p</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
@@ -32,11 +22,21 @@
       <mask>*.blaephp</mask>
       <mask>*.bladphp</mask>
       <mask>*.bladephp</mask>
-      <mask>*.blade.php</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.ba</mask>
+      <mask>*.b</mask>
+      <mask>*.bl</mask>
+      <mask>*.bla</mask>
+      <mask>*.blad</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.p</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
