@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.coffee</mask>
       <mask>*.p</mask>
@@ -29,14 +29,14 @@
       <mask>*.blade.*</mask>
       <mask>*.blade.*.</mask>
       <mask>*.blade.*.le</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
