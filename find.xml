@@ -5,35 +5,35 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.blaphp</mask>
-      <mask>*.blaephp</mask>
-      <mask>*.bladphp</mask>
-      <mask>*.bladephp</mask>
-      <mask>*.ba</mask>
-      <mask>*.b</mask>
-      <mask>*.blade.p</mask>
-      <mask>*.blade.*</mask>
-      <mask>*.blade.*.</mask>
-      <mask>*.blade.*.le</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.bl</mask>
-      <mask>*.bla</mask>
-      <mask>*.blad</mask>
       <mask>*.blade.hp</mask>
       <mask>*.blade.h</mask>
       <mask>*.blade.ph</mask>
-      <mask>*.blade.php</mask>
       <mask>*.blade.</mask>
       <mask>*.blade</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
+      <mask>*.ph</mask>
+      <mask>*.bphp</mask>
+      <mask>*.blphp</mask>
+      <mask>*.blaphp</mask>
+      <mask>*.bladphp</mask>
+      <mask>*.blade,php</mask>
+      <mask>*.bladephp</mask>
+      <mask>*.blade.php</mask>
+      <mask>$</mask>
+      <mask>$o</mask>
+      <mask>$s</mask>
+      <mask>$so</mask>
+      <mask>$social</mask>
+      <mask>.</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.pp</mask>
       <mask>*.p</mask>
-      <mask>*.ph</mask>
+      <mask>*.pgp</mask>
+      <mask>*.pg</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
