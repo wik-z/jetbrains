@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.bphp</mask>
       <mask>*.blphp</mask>
       <mask>*.blaphp</mask>
       <mask>*.bladphp</mask>
@@ -22,21 +21,22 @@
       <mask>.</mask>
       <mask>*</mask>
       <mask>*.pp</mask>
-      <mask>*.p</mask>
       <mask>*.pgp</mask>
       <mask>*.pg</mask>
-      <mask>*.php</mask>
       <mask>*.vur</mask>
-      <mask>*.vu</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.v</mask>
       <mask>*.vue</mask>
+      <mask>*.vu</mask>
+      <mask>*.v</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
