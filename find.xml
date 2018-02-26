@@ -5,16 +5,14 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.blade.php" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.bladephp</mask>
       <mask>$</mask>
       <mask>$o</mask>
       <mask>$s</mask>
       <mask>$so</mask>
       <mask>$social</mask>
       <mask>.</mask>
-      <mask>*</mask>
       <mask>*.pp</mask>
       <mask>*.pgp</mask>
       <mask>*.pg</mask>
@@ -27,16 +25,18 @@
       <mask>*.vue</mask>
       <mask>*.vu</mask>
       <mask>*.v</mask>
-      <mask>*.</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.bla</mask>
       <mask>*.blad</mask>
       <mask>*.blade</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
