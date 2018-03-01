@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>$social</mask>
       <mask>.</mask>
@@ -21,10 +21,8 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>&amp;</mask>
-      <mask>*</mask>
       <mask>*.b</mask>
       <mask>*.bla</mask>
-      <mask>*.l</mask>
       <mask>*.bl</mask>
       <mask>*.blade.p</mask>
       <mask>*.blade.ph</mask>
@@ -35,10 +33,12 @@
       <mask>*.blade.php</mask>
       <mask>*.blade.</mask>
       <mask>*.blade</mask>
-      <mask>*.</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
