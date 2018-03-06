@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -19,18 +20,12 @@
       <mask>*.vue</mask>
       <mask>*.vu</mask>
       <mask>*.v</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.coffee</mask>
       <mask>*.coffe</mask>
       <mask>*.coff</mask>
       <mask>*.cof</mask>
       <mask>*.co</mask>
       <mask>*.c</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.b</mask>
       <mask>*.bl</mask>
       <mask>*.bla</mask>
@@ -38,6 +33,12 @@
       <mask>*.blade</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
