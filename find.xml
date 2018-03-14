@@ -9,12 +9,11 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>&amp;</mask>
-      <mask>*.vu</mask>
       <mask>*.coffee</mask>
       <mask>*.coffe</mask>
       <mask>*.coff</mask>
@@ -35,12 +34,13 @@
       <mask>*.less</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.v</mask>
       <mask>*.vue</mask>
+      <mask>*.vu</mask>
+      <mask>*.v</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
