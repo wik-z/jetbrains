@@ -5,27 +5,21 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
       <mask>*.c</mask>
       <mask>*.bl</mask>
-      <mask>*.b</mask>
       <mask>*.bla</mask>
-      <mask>*.blad</mask>
       <mask>*.blade.p</mask>
-      <mask>*.blade.ph</mask>
       <mask>*.vue</mask>
       <mask>*.vu</mask>
       <mask>*.v</mask>
       <mask>*p</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.bladphp</mask>
-      <mask>*.blade.php</mask>
       <mask>*.bladephp</mask>
       <mask>*.blaphp</mask>
       <mask>*.blphp</mask>
@@ -35,8 +29,14 @@
       <mask>*.p</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.b</mask>
+      <mask>*.blad</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.ph</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
