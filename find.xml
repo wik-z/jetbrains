@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.blade.ph</mask>
       <mask>*.bphp</mask>
       <mask>*.blaphp</mask>
       <mask>*.bladphp</mask>
@@ -34,9 +33,10 @@
       <mask>browse-</mask>
       <mask>browse-l</mask>
       <mask>browse-list</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
