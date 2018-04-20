@@ -2,16 +2,16 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>browse-l</mask>
       <mask>browse-list</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.vie</mask>
       <mask>*.vi</mask>
-      <mask>*.vu</mask>
       <mask>*.blade.php</mask>
       <mask>*.blade.ph</mask>
       <mask>*.blade.p</mask>
@@ -28,13 +28,15 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.v</mask>
       <mask>*.vue</mask>
+      <mask>*.vu</mask>
+      <mask>*.v</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
