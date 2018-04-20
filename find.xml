@@ -5,20 +5,14 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.blade.php" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>browsw</mask>
-      <mask>brows</mask>
       <mask>browse</mask>
       <mask>browse-</mask>
       <mask>browse-l</mask>
       <mask>browse-list</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.le</mask>
@@ -29,14 +23,20 @@
       <mask>*.vue</mask>
       <mask>*.vu</mask>
       <mask>*.v</mask>
-      <mask>*.</mask>
-      <mask>*.b</mask>
-      <mask>*.bla</mask>
-      <mask>*.blad</mask>
-      <mask>*.blade</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade.ph</mask>
       <mask>*.blade.php</mask>
+      <mask>*.blade.ph</mask>
+      <mask>*.blade.p</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade</mask>
+      <mask>*.blad</mask>
+      <mask>*.bla</mask>
+      <mask>*.bl</mask>
+      <mask>*.b</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
