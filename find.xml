@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
@@ -13,10 +11,6 @@
       <mask>browse-list</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*</mask>
       <mask>*.vie</mask>
       <mask>*.vi</mask>
@@ -32,6 +26,10 @@
       <mask>*.bla</mask>
       <mask>*.bl</mask>
       <mask>*.b</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
