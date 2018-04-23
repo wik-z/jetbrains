@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.vue" />
     <recentFileMasks>
       <mask>browse-l</mask>
       <mask>browse-list</mask>
@@ -32,11 +32,11 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.vue</mask>
-      <mask>*.vu</mask>
-      <mask>*.v</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.v</mask>
+      <mask>*.vu</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
