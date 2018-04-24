@@ -5,20 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
-      <mask>browse-list</mask>
-      <mask>*.j</mask>
       <mask>*.vie</mask>
       <mask>*.vi</mask>
-      <mask>*.blade.php</mask>
       <mask>*.blade.ph</mask>
       <mask>*.blade.p</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade</mask>
-      <mask>*.blad</mask>
       <mask>*.bla</mask>
-      <mask>*.bl</mask>
       <mask>*.b</mask>
       <mask>*,</mask>
       <mask>*s</mask>
@@ -31,12 +24,19 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*v</mask>
       <mask>*</mask>
-      <mask>*.v</mask>
-      <mask>*.vu</mask>
       <mask>*.vue</mask>
+      <mask>*.vu</mask>
+      <mask>*.v</mask>
+      <mask>*.</mask>
+      <mask>*.bl</mask>
+      <mask>*.blad</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.hp</mask>
+      <mask>*.blade.h</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
