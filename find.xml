@@ -7,16 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.blade.php" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.blade.ph</mask>
-      <mask>*.bla</mask>
-      <mask>*,</mask>
-      <mask>*s</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
@@ -26,8 +18,6 @@
       <mask>*.bl</mask>
       <mask>*.blade.hp</mask>
       <mask>*.blade.h</mask>
-      <mask>*.blade</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.vue</mask>
@@ -35,10 +25,20 @@
       <mask>*.v</mask>
       <mask>*.b</mask>
       <mask>*.blad</mask>
-      <mask>*.blade.</mask>
       <mask>*.blade.p</mask>
       <mask>*.blade.pp</mask>
       <mask>*.blade.php</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade</mask>
+      <mask>*.offe</mask>
+      <mask>*.off</mask>
+      <mask>*.of</mask>
+      <mask>*.o</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
