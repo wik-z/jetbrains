@@ -1,18 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.blade.php" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*v</mask>
       <mask>*</mask>
       <mask>*.bl</mask>
       <mask>*.blade.hp</mask>
@@ -39,6 +33,10 @@
       <mask>*.blade.p</mask>
       <mask>*.blade.ph</mask>
       <mask>*.blade.php</mask>
+      <mask>*.bladephp</mask>
+      <mask>*.bladphp</mask>
+      <mask>*.blaphp</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
