@@ -5,12 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.bla.php</mask>
-      <mask>*.bl.php</mask>
-      <mask>*.b.php</mask>
-      <mask>*..php</mask>
       <mask>*.blade.h</mask>
       <mask>*.blade.php</mask>
       <mask>*.blade.ph</mask>
@@ -28,15 +24,19 @@
       <mask>*.vu</mask>
       <mask>*.v</mask>
       <mask>*.phpl</mask>
-      <mask>*.p</mask>
       <mask>*.e</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
