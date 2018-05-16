@@ -1,18 +1,18 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.blade.h</mask>
       <mask>*.blade.p</mask>
       <mask>*.bla</mask>
       <mask>*.bl</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.v</mask>
       <mask>*.phpl</mask>
       <mask>*.e</mask>
       <mask>*.b</mask>
@@ -32,9 +32,11 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.vu</mask>
       <mask>*.vue</mask>
+      <mask>*.vu</mask>
+      <mask>*.v</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
