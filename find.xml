@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
       <mask>*.b</mask>
       <mask>*.blade</mask>
@@ -29,12 +29,12 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.jss</mask>
-      <mask>*.jsx</mask>
       <mask>*.jk</mask>
       <mask>*.j</mask>
       <mask>*.jjs</mask>
       <mask>*.jj</mask>
       <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
