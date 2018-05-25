@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.b</mask>
       <mask>*.blade</mask>
       <mask>*.¬ess</mask>
       <mask>*.¬es</mask>
@@ -33,6 +32,7 @@
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*/</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
