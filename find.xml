@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>*/</mask>
@@ -23,7 +23,6 @@
       <mask>*.blade.</mask>
       <mask>*.blade.pgp</mask>
       <mask>*.blade.php</mask>
-      <mask>*</mask>
       <mask>*g.</mask>
       <mask>*g</mask>
       <mask>*.g</mask>
@@ -32,11 +31,12 @@
       <mask>*.vue</mask>
       <mask>*.vu</mask>
       <mask>*.v</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
