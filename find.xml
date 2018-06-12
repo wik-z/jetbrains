@@ -2,14 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.gql" />
     <recentFileMasks>
-      <mask>*.jk</mask>
-      <mask>*.jjs</mask>
-      <mask>*.jj</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*/</mask>
       <mask>*.blade.ph</mask>
@@ -35,6 +32,11 @@
       <mask>*.scss</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*g.</mask>
+      <mask>*g</mask>
+      <mask>*.g</mask>
+      <mask>*.gq</mask>
+      <mask>*.gql</mask>
     </recentFileMasks>
   </component>
 </application>
