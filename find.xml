@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*/</mask>
-      <mask>*.blade.ph</mask>
-      <mask>*.blade.p</mask>
-      <mask>*.blade</mask>
-      <mask>*.bl</mask>
-      <mask>*.b</mask>
-      <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.bla</mask>
-      <mask>*.blad</mask>
-      <mask>*.blade.</mask>
       <mask>*.blade.pgp</mask>
-      <mask>*.blade.php</mask>
       <mask>*g.</mask>
       <mask>*g</mask>
       <mask>*.g</mask>
       <mask>*.gql</mask>
       <mask>*.gq</mask>
-      <mask>*.v</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.s</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.vu</mask>
       <mask>*.vue</mask>
+      <mask>*.vu</mask>
+      <mask>*.v</mask>
+      <mask>*.</mask>
+      <mask>*.b</mask>
+      <mask>*.bl</mask>
+      <mask>*.bla</mask>
+      <mask>*.blad</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade:php</mask>
+      <mask>*.blade:ph</mask>
+      <mask>*.blade:p</mask>
+      <mask>*.blade:</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.p</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
